@@ -18,10 +18,10 @@
 **CamCapture v4.2** is a cross-platform, automated Bash script engineered for cybersecurity awareness and authorized penetration testing. It beautifully demonstrates how social engineering templates integrate with local PHP servers and automated tunneling tools (Ngrok & Cloudflare) to securely analyze target device indicators like IP addresses, camera accessibility, and precise GPS telemetry.
 
 <p align="left">
-  <img src="https://github.com/ZenCoder512/CamCapture/blob/master/img/img_02.png" alt="Cyber Security Concept" width="500px" style="border-radius: 8px;"/>
+  <img src="https://github.com/ZenCoder512/-CamCapture/blob/master/img/img_01.png" alt="Cyber Security Concept" width="500px" style="border-radius: 8px;"/>
 </p>
 <p align="right">
-  <img src="https://github.com/ZenCoder512/CamCapture/blob/master/img/img_01.png" alt="Cyber Security Concept" width="500px" style="border-radius: 8px;"/>
+  <img src="https://github.com/ZenCoder512/-CamCapture/blob/master/img/img_02.png" alt="Cyber Security Concept" width="500px" style="border-radius: 8px;"/>
 </p>
 
 ---
@@ -42,12 +42,12 @@ Follow these simple steps to deploy and test the project on your local environme
 ### 📥 Step 1: Clone the Repository
 Open your terminal and paste the following command to download the codebase:
 ```bash
-https://github.com/ZenCoder512/CamCapture.git
+git clone https://github.com/ZenCoder512/CamCapture.git
 ```
 ### 📂 Step 2: Navigate to Directory
 Switch over to the project directory to access the main execution files:
 ```bash
-cd CamCapture
+cd camphish
 ```
 ### ⚙️ Step 3: Launch the Interface
 Provide the execution command to spin up the script setup wizard:
